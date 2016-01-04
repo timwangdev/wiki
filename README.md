@@ -2,7 +2,7 @@
 
 This is my personal knowlage base. The wiki is built with [gollum](https://github.com/gollum/gollum).
 
-The wiki website is deployed at http://wiki.timwang.me .
+The wiki website is deployed at [wiki.timwang.me](http://wiki.timwang.me).
 
 Feel free to build your own wiki from this repository.
 
@@ -44,7 +44,7 @@ This will bind our current folder as a symlink to the container's /wiki folder a
 
 Note: the symlink and port forwarding can also be setup using the Kitematic GUI once the container is running.
 
-### Use [nginx-proxy](https://github.com/jwilder/nginx-proxy)
+### Using [nginx-proxy](https://github.com/jwilder/nginx-proxy)
 
 * Make sure you have properly setup the nginx-proxy container
 

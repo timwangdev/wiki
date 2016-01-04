@@ -1,4 +1,6 @@
 FROM ruby
+MAINTAINER Yao Wang <tim.wangyao@gmail.com>
+
 RUN apt-get -y update && apt-get -y install libicu-dev
 # Remove next two lines in release.
 RUN gem sources --add https://ruby.taobao.org/ --remove https://rubygems.org/
