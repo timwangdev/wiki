@@ -1,6 +1,6 @@
 # Tim Wang's Wiki
 
-This is my personal knowlage base. The wiki is built with [gollum](https://github.com/gollum/gollum).
+This is my personal knowledge base. The wiki is built with [gollum](https://github.com/gollum/gollum).
 
 The wiki website is deployed at [wiki.timwang.me](http://wiki.timwang.me).
 
