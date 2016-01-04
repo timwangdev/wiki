@@ -54,7 +54,7 @@ docker run -v `pwd`:/wiki -e VIRTUAL_HOST=wiki.example.com -e VIRTUAL_PORT=80 -p
 
 Or use this YAML file
 
-```YAML
+```
 wiki:
   image: your-image-name
   restart: always
