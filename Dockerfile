@@ -11,5 +11,5 @@ RUN gem install redcarpet org-ruby github-markdown
 VOLUME /wiki
 WORKDIR /wiki
 RUN git init /wiki
-CMD ["gollum", "--port", "80", "--no-edit", "--css"]
+CMD ["gollum", "--port", "80", "--no-edit", "--css", "--js"]
 EXPOSE 80

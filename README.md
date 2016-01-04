@@ -16,7 +16,7 @@ Feel free to build your own wiki from this repository.
 git clone https://github.com/timwangdev/wiki.git wiki
 ```
 
-Note: this repository is build with `--no-edit` and `--css` options. If you need different [gollum options](https://github.com/gollum/gollum#running), you should edit the `Dockerfile` at this step.
+Note: this repository is build with `--no-edit`, `--js`and `--css` options. If you need different [gollum options](https://github.com/gollum/gollum#running), you should edit the `Dockerfile` at this step.
 
 * Navigate to the folder that houses the Dockerfile, ~/wiki/
 
@@ -71,8 +71,10 @@ I'm using [Daocloud](http://www.daocloud.io/) to manage my containers, the confi
 
 ## TODO
 
+- [ ] Custom JavaScript (Google Analytics)
 - [ ] Custom CSS
 - [ ] Auto deploy when updated
+- [ ] Comment support, if not possible use [Issues](https://github.com/timwangdev/wiki/issues) instead
 
 ## Contribution
 
