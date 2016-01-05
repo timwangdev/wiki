@@ -14,7 +14,7 @@ $(function() {
         'container': '.markdown-body' //element to find all selectors in
     });
     
-    if $('#sidebar-toc-content').html = null {
+    if ($('#sidebar-toc-content').html = "") {
         $('#sidebar-toc-content').html = "<p>No content available.</p>"
     }
 });
