@@ -12,9 +12,8 @@ $(function() {
     $('#sidebar-toc-content').toc({
         'selectors': 'h1,h2,h3', //elements to use as headings
         'container': '.markdown-body' //element to find all selectors in
-    });
-    
-    if ($('#sidebar-toc-content').html = "<ul></ul>") {
-        $('#sidebar-toc-content').html = "<p>No content available.</p>"
-    }
+    });    
+    // if ($('#sidebar-toc-content').html = "<ul></ul>") {
+    //     $('#sidebar-toc-content').html = "<p>No content available.</p>"
+    // }
 });

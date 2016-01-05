@@ -8,7 +8,7 @@ Feel free to build your own wiki from this repository.
 
 ## Run this wiki via Docker
 
-### Building the Docker image
+### Build the Docker image
 
 * Clone the repository
 
@@ -28,7 +28,7 @@ docker build -t gollum .
 
 After the terminal is done working away, the console will say Successfully built with the image ID created.
 
-### Running the Docker Container
+### Run the Docker Container
 
 * Now we'll spin up a container based on the image created
 
@@ -44,7 +44,7 @@ This will bind our current folder as a symlink to the container's /wiki folder a
 
 Note: the symlink and port forwarding can also be setup using the Kitematic GUI once the container is running.
 
-### Using [nginx-proxy](https://github.com/jwilder/nginx-proxy)
+### Use [nginx-proxy](https://github.com/jwilder/nginx-proxy)
 
 * Make sure you have properly setup the nginx-proxy container
 
