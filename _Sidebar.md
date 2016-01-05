@@ -1,5 +1,5 @@
 <div id="sidebar-toc-header">
-<h3>Table of Content</h3>
+<b>Table of Content</b>
 </div>
 ---
 <div id="sidebar-toc-content">
