@@ -4,6 +4,4 @@
 ---
 <div id="sidebar-toc-content">
 No content available.
-
-<a href="/Home">Back to Home</a>
 </div>

@@ -13,4 +13,8 @@ $(function() {
         'selectors': 'h1,h2,h3', //elements to use as headings
         'container': '.markdown-body' //element to find all selectors in
     });
+    
+    if $('#sidebar-toc-content').html = null {
+        $('#sidebar-toc-content').html = "<p>No content available.</p>"
+    }
 });
