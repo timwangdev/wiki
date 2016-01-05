@@ -1,9 +1,9 @@
 <div id="sidebar-toc-header">
-### Table of Content
+<h3>Table of Content</h3>
 </div>
 ---
 <div id="sidebar-toc-content">
 No content available.
 
-[Back to Home](/Home)
+<a href="/Home">Back to Home</a>
 </div>
