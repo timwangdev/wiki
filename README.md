@@ -71,7 +71,7 @@ I'm using [Daocloud](http://www.daocloud.io/) to manage my containers, the confi
 
 ## TODO
 
-- [ ] Custom JavaScript (Google Analytics)
+- [ ] Table of Content
 - [ ] Custom CSS
 - [ ] Auto deploy when updated
 - [ ] Comment support, if not possible use [Issues](https://github.com/timwangdev/wiki/issues) instead
