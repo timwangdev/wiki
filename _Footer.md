@@ -1,1 +1,1 @@
-Copyright © 2016 Yao Wang. [License](/LICENSE) - [View on Github](https://github.com/timwangdev/wiki) - [Home](http://timwang.me) / [Blog](http://blog.timwang.me) / [Twitter](https://twitter.com/timwangdev)
+Copyright © 2016 Yao Wang. **[License](/LICENSE)** - *[View on Github](https://github.com/timwangdev/wiki)* - [Home](http://timwang.me) / [Blog](http://blog.timwang.me) / [Twitter](https://twitter.com/timwangdev)
